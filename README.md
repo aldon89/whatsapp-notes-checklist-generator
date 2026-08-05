@@ -1,6 +1,7 @@
 [README_bilingual (1).md](https://github.com/user-attachments/files/30728134/README_bilingual.1.md)
 # WhatsApp 摘要工具 / WhatsApp Summary Tool
 
+****原本想整個自動睇WHATSAPP之後幫你整SUMMARY，但受限於WHATSAPP PERSONAL唔支援API只能COPY AND PASTE/THIS TOOL WAS MEANT TO BE READING WHATSAPP MESSAGE AUTOMATICALLY BUT UNFORTUNATELY PERONSAL WHATSAPP DIDN'T SUPPORT API.****
 呢個工具可以令你雙擊執行檔，揀一個 `.txt` 聊天記錄檔，然後自動產生中文摘要，輸出成同名資料夾入面嘅 `summary.txt`。
 
 This tool lets you double-click an executable, choose a `.txt` chat export file, and automatically generate a Chinese summary as `summary.txt` in the same folder as the input file.
